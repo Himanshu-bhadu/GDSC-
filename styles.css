@@ -20,6 +20,9 @@ body {
     grid-template-rows: 1fr 1fr 1fr;
     grid-template-columns: 1fr 1fr 1fr;
 }
+.icon {
+    font-size: 2em;
+}
 .box {
     display: flex;
     color: #ffffff;
@@ -64,9 +67,7 @@ body {
     font-size: 2em;
     grid-column: 2 / 3;
     grid-row: 2 / 3;
-    font-family: 'Cursive', sans-serif;
+    font-family: 'Cursive';
 }
-.icon {
-    font-size: 2em;
-}
+
 
